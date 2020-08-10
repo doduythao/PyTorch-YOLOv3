@@ -1,4 +1,6 @@
 from __future__ import division
+import warnings
+warnings.simplefilter(action='ignore', category=FutureWarning)
 
 from models import *
 from utils.logger import *
