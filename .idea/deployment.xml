@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="thao@143.248.56.71:22" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" autoUpload="Always" remoteFilesAllowedToDisappearOnAutoupload="false" compareModeInSync="TEXT">
     <serverData>
       <paths name="thao@143.248.56.71:22">
         <serverdata>
           <mappings>
-            <mapping deploy="/tmp/pycharm_project_690" local="$PROJECT_DIR$" />
+            <mapping deploy="/home/thao/PyTorch-YOLOv3" local="$PROJECT_DIR$" />
           </mappings>
         </serverdata>
       </paths>
